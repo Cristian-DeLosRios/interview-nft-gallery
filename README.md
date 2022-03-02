@@ -24,7 +24,7 @@ You will also see any lint errors in the console.
 ## Build an NFT collection gallery
 - Use the OpenSea API to display Mark Cuban's API collection styled as close as possible to the image below
 - His ETH address is 0x293ed38530005620e4b28600f196a97e1125daac
-- [Use the /assets endpoint](https://docs.opensea.io/reference/getting-assets)
+- [Use the /assets endpoint](https://docs.opensea.io/reference/getting-assets). NOTE: The OpenSea docs are somewhat confusing but you DO NOT need an API key to access mainnet endpoints on this API. 
 - Display the first 20 NFTs on page load
 
 ![NFT Collection](https://i.postimg.cc/qRCB8sbq/Screen-Shot-2022-02-03-at-4-53-27-PM.png)
